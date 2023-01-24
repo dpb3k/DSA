@@ -1,2 +1,1 @@
-# dsa
-Algorithms and Data Structures stuff
+Algorithms and Data Structures stuff in Python
